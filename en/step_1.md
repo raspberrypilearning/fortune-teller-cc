@@ -1,58 +1,58 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
 
-### What you will make
+__Instructions__: If you're reading this online, ask the micro:bit below a question and press __A__ to get your answer!
 
---- no-print ---
-Add instructions for using the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<div class="trinket" style="width:400px;margin: 0 auto;">
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### Additional information for club leaders
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
+
 
 --- collapse ---
 ---
-title: What you will need
+title: Club leader notes
 ---
-### Hardware
 
-+ Describe hardware here
 
-### Software
+## Introduction:
+In this project, children will learn how to make use of selection, by making a 'fortune teller'. The fortune teller will work like a magic 8-ball, and will give the user the answer to a question they ask the micro:bit.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+## Resources
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-### Downloads
+You can find a completed version of this project at [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ FortuneTeller.hex
+
+## Learning Objectives
++ Selection `if` blocks;
++ The `random` block.
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+## Challenges
++ "Multiple answers" - Consolidating use of `if` blocks, by adding 'No' and 'Ask again' answers.
++ "Shake your micro:bit" - Shake the micro:bit instead of pressing a button.
+
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Project materials
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+## Club leader resources
+* [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
 
 --- /collapse ---
